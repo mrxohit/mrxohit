@@ -32,9 +32,9 @@ I specialize in **modern web technologies** and love transforming ideas into rea
 
 <p align="left">
   <a href="https://github.com/mrxohit" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mrxohit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/mrxohit" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@mrxohit" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mr-mohit-884352353" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/mohits.codes" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
+ 
 </p>
 
 ---
