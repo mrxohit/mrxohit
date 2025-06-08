@@ -55,7 +55,7 @@ I specialize in **modern web technologies** and love transforming ideas into rea
 ### 💼 Featured Project
 
 - [🌿 PlantPal - Your Plant Buddy](https://mrxohit.github.io/PlantPal/)  
-- [📰 RajKhabar - Rajasthan News](https://mrxohit.github.io/RajKhabar/)  
+- [📰 RajKhabar - Rajasthan News Mobile only](https://mrxohit.github.io/RajKhabar/)  
 A clean and elegant plant guide app built with modern frontend tech and a focus on usability & design.
 
 ---
